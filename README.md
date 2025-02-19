@@ -18,6 +18,6 @@
 
 
 
-## How to run 2.?
+## How to run 3.?
 
 * Python Version = 3.8.10
