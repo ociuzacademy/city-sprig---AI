@@ -9,7 +9,7 @@
 
 
 
-## How to run 2.Poisonous_Plant_Identification?
+## How to run 2.Poisonous_Plant_Identification Model?
 
 * Python Version = 3.8.10
 * Install the requirements from "requirements_for_2.Poisonous_Plant_Identification.txt" file.
