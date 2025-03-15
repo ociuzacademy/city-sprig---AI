@@ -18,6 +18,10 @@
 
 
 
-## How to run 3.?
+## How to run 3.Plant Identification?
 
 * Python Version = 3.8.10
+* Install the requirements from "requirements_for_3.Plant_Identification.txt" file.
+* Download the trained model "my_model.h5" from https://drive.google.com/drive/folders/12zu-aGrMUpZeW8wuTDAoLnsjjta0dtKE?usp=sharing and place in the folder with app.py.
+* Run app.py
+* Edit the image path in app.py to test different images from the 'test_images' folder.
